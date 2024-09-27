@@ -1,1 +1,8 @@
-nima@192.168.1.120
+#nima@192.168.1.120
+[group1]
+host1 ansible_host=192.168.1.120 ansible_user=nima
+#host2 ansible_host=192.168.1.121 ansible_user=nima
+#
+#[group2]
+#host3 ansible_host=192.168.1.130 ansible_user=nima
+#host4 ansible_host=192.168.1.131 ansible_user=nima
